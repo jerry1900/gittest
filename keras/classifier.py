@@ -1,4 +1,5 @@
-__author__ = 'user0311'
+#-*-coding:utf8-*-
+__author__ = '万壑'
 
 import numpy as np
 

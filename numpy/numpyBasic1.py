@@ -1,5 +1,5 @@
 #-*-coding:utf8-*-
-__author__ = 'jerry1900'
+__author__ = '万壑'
 
 import numpy as np
 #
