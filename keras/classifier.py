@@ -40,7 +40,7 @@ model.compile(
     metrics=['accuracy'])
 
 print('Training-----------------')
-model.fit(X_train,y_train,epochs=2,batch_size=32)
+model.fit(X_train,y_train,batch_size=32,epochs=2)
 
 print('\nTesting---------------')
 loss,accuracy = model.evaluate(X_test,y_test)
